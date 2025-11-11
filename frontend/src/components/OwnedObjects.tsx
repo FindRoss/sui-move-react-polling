@@ -30,7 +30,7 @@ export const OwnedObjects = () => {
           <div key={objectRes.data?.objectId}>
             <p>Object ID: {objectRes.data?.objectId}</p>
           </div>
-        ))} */}
+      ))} */}
       </>
     </>
   )
